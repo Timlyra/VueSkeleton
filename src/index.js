@@ -1,7 +1,7 @@
 import Skeleton from './skeleton';
 
 export default {
-    intall(Vue) {
+    install(Vue) {
         Vue.directive('skeleton', Skeleton);
     }
 }

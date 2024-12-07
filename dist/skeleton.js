@@ -1,4 +1,8 @@
 export default {
-  bind(el, binding) {},
-  update(el, binding) {}
+  bind(el, binding) {
+    el.style.color = binding.value || 'blue';
+  },
+  update(el, binding) {
+    el.style.color = binding.value || 'blue';
+  }
 };
