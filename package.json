@@ -1,7 +1,7 @@
 {
   "name": "vueskeleton",
   "version": "1.0.0",
-  "description": "Generates a placeholder skeleton for your vue components with a directive",
+  "description": "Generates a placeholder skeleton for your Vue components using a directive",
   "main": "dist/index.js",
   "files": [
     "dist"
